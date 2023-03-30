@@ -68,7 +68,6 @@ function Projects() {
               title="Flight Search System"
               description="It helps users find the best American Airlines travel itinerary between two airports in the US in 2022, based on distance, cost, or a combination of both. Users can exclude certain airports from their itinerary. The app uses Dijkstra's algorithm to calculate the shortest path between two airports by analyzing flight data from a DOT file."
               ghLink="https://github.com/TongluY/Flight-Search-System"
-              // demoLink="" <--------Please include a demo link here
             />
           </Col>
 
@@ -79,7 +78,7 @@ function Projects() {
               title="Yoga GPT"
               description="Yoga GPT is an innovative project that leverages the power of GPT-3 API to create personalized yoga routines for users. With Yoga GPT, users can easily input their level of yoga experience, preferred yoga style, and desired goals. The application then generates a customized yoga routine that is tailored to the user's unique needs and preferences. "
               ghLink="https://github.com/TongluY/Yoga-GPT"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              // demoLink   <--------Please include a demo link here 
             />
           </Col>
         </Row>
