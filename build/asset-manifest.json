@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TongluY.github.io/static/css/main.d70a553f.css",
+    "main.js": "/TongluY.github.io/static/js/main.1d6bb85d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/TongluY.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/yoga.png": "/TongluY.github.io/static/media/yoga.e552659f2c9958e7ca51.png",
+    "static/media/teeko.png": "/TongluY.github.io/static/media/teeko.d98cf82acbf8415c5459.png",
+    "static/media/remi.png": "/TongluY.github.io/static/media/remi.633ae3796f9135e62ff0.png",
+    "static/media/scene.png": "/TongluY.github.io/static/media/scene.65c46709cd0cc8af239d.png",
+    "static/media/flight.png": "/TongluY.github.io/static/media/flight.c0dd930f069767aa4768.png",
+    "static/media/scheduler.png": "/TongluY.github.io/static/media/scheduler.87d6eedb8d0492b3891e.png",
+    "static/media/poke.png": "/TongluY.github.io/static/media/poke.11934b06502174fced93.png",
+    "static/media/Tonglu_Yang_Resume.pdf": "/TongluY.github.io/static/media/Tonglu_Yang_Resume.7f0a346f189133c299b0.pdf",
+    "static/media/pre.svg": "/TongluY.github.io/static/media/pre.b684116b213f5e263a03.svg",
+    "index.html": "/TongluY.github.io/index.html",
+    "static/media/avatar.svg": "/TongluY.github.io/static/media/avatar.ef52e7ca887838ec9ac0f76fe52f6a79.svg",
+    "main.d70a553f.css.map": "/TongluY.github.io/static/css/main.d70a553f.css.map",
+    "main.1d6bb85d.js.map": "/TongluY.github.io/static/js/main.1d6bb85d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/TongluY.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d70a553f.css",
+    "static/js/main.1d6bb85d.js"
+  ]
+}
