@@ -26,9 +26,14 @@ function Home() {
                 A <span className="green">CS</span> Senior at UW-Madison
               </h3>
               <h4>
-              1 yr <span className="green">Full Stack Developer</span> Expereince<br/>
-              Fluent in <span className="green">Python, C, Java, and C#</span><br/>
-              Seeking for <strong className="green">SWE Intern/Co-op/New Grad</strong>
+                Worked as <span className="green">Full Stack Developer</span>{" "}
+                for <span className="green">1yr</span>
+                <br />
+                Experienced in{" "}
+                <span className="green">Python, C, Java, and C#</span>
+                <br />
+                Seeking for{" "}
+                <strong className="green">SWE Intern/Co-op/New Grad</strong>
               </h4>
             </div>
           </Col>

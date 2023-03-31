@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 // import { CgGitFork } from "react-icons/cg";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { ImBlog } from "react-icons/im";
+// import { ImBlog } from "react-icons/im";
 import {
   // AiFillStar,
   AiOutlineHome,
