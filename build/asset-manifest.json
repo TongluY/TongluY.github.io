@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.c559a094.css",
-    "main.js": "/static/js/main.4a9ee88b.js",
+    "main.js": "/static/js/main.2d426a08.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/yoga.png": "/static/media/yoga.e552659f2c9958e7ca51.png",
     "static/media/teeko.png": "/static/media/teeko.d98cf82acbf8415c5459.png",
-    "static/media/remi.png": "/static/media/remi.633ae3796f9135e62ff0.png",
     "static/media/scene.png": "/static/media/scene.65c46709cd0cc8af239d.png",
     "static/media/flight.png": "/static/media/flight.c0dd930f069767aa4768.png",
     "static/media/scheduler.png": "/static/media/scheduler.87d6eedb8d0492b3891e.png",
     "static/media/poke.png": "/static/media/poke.11934b06502174fced93.png",
     "static/media/Tonglu_Yang_Resume.pdf": "/static/media/Tonglu_Yang_Resume.60219c043e019062476b.pdf",
+    "static/media/remi.png": "/static/media/remi.932a536b797cdc2a1083.png",
     "static/media/pre.svg": "/static/media/pre.b684116b213f5e263a03.svg",
     "index.html": "/index.html",
     "static/media/avatar.svg": "/static/media/avatar.ef52e7ca887838ec9ac0f76fe52f6a79.svg",
     "main.c559a094.css.map": "/static/css/main.c559a094.css.map",
-    "main.4a9ee88b.js.map": "/static/js/main.4a9ee88b.js.map",
+    "main.2d426a08.js.map": "/static/js/main.2d426a08.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c559a094.css",
-    "static/js/main.4a9ee88b.js"
+    "static/js/main.2d426a08.js"
   ]
 }

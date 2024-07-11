@@ -23,12 +23,12 @@ function Home() {
             </h1>
             <div style={{ paddingLeft: 45 }}>
               <h3>
-                A <span className="green">CS</span> Senior at UW-Madison
+                A <span className="green">CS</span> Recent Grad from UW-Madison
               </h3>
               <h4>
-              1 yr <span className="green">Full Stack Developer</span> Expereince<br/>
-              Fluent in <span className="green">Python, C, Java, and C#</span><br/>
-              Seeking for <strong className="green">SWE Intern/Co-op/New Grad</strong>
+              2-yrs <span className="green">Full Stack Developer</span> in C# <br/>
+              Love <span className="green">Python, C/C++, Java</span><br/>
+              Seeking for <strong className="green">SDE New Grad/Entry Level</strong>
               </h4>
             </div>
           </Col>
